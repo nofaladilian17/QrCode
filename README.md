@@ -2,7 +2,7 @@
 
 ## Installation
 ## Demo link 
-[Clickable Text](https://nofaladilian17.github.io/QrCode/)
+[Live Demo](https://nofaladilian17.github.io/QrCode/)
 
 
 
