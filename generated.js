@@ -1,5 +1,5 @@
 document.getElementById('kembali').addEventListener('click', function() {
-const redirectLink = 'ScanQRCode.html'; // Replace this with your actual link
+const redirectLink = 'index.html'; // Replace this with your actual link
         
     // Redirect the user to the link
     window.location.href = redirectLink;
