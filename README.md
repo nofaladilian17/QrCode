@@ -1,12 +1,5 @@
 # Scan Qr Code 
 
-
-
-## Table of Contents
-
-- [Installation](#bash)
-
-
 ## Installation
 ## Demo link 
 [Clickable Text](https://nofaladilian17.github.io/QrCode/ScanQRCode.html)
