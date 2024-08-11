@@ -4,14 +4,13 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
+- [Installation](#bash)
 
 
 ## Installation
 ## Demo link 
 [Clickable Text](https://nofaladilian17.github.io/QrCode/ScanQRCode.html)
 
-Check out the live demo of the project here: [Live Demo](https://nofaladilian17.github.io/QrCode/ScanQRCode.html)
 
 
 1. Clone the repository:
